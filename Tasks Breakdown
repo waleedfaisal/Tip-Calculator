@@ -1,0 +1,17 @@
+Simpe Tip Calculator Breakdown in tasks..
+
+HTML
+- Link Js files
+- Link CSS files
+- Link Tailwind
+- Write Semantic Html
+- Create a input fields for total amount and tip%
+- Must add IDs for DOM Manipulation
+
+CSS
+- Style the structure of the page
+
+JavaSCript
+- Add all the IDs in DOM
+- Write a tip formula, Total amount * Tip% / 100
+- Output the result in HTML Page dynamically with the help of DOM JS
